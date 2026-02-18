@@ -102,7 +102,20 @@ Neskoršie odovzdanie nie je možné. Neodovzdanie niektorej časti projektu zna
 
 ## Kontrolná fáza progresu implementácie (4 body)
 
-V kontrolnej fáze - v 9. týždni - sa očakáva implementovaná klientská časť aplikácie. Fáza je hodnotená 4 bodmi, a to binárne. Tím letmo predvedie cvičiacemu funkčnosť klientskej aplikácie s ohľadom na požadované prípady použitia. Ak aplikácia umožňuje realizovať všetky prípady použitia (klientskej časti), každý študent z tímu získa 4 body. Kontrolný bod nie je povinný, neodovzdáva sa do AIS. Tieto body sú zahrnuté v celkovom hodnotení (max. 100 bodov z kurzu).
+V kontrolnej fáze - v 9. týždni - sa očakáva implementovaná klientská časť aplikácie. Fáza je hodnotená 4 bodmi, a to binárne. Tím letmo predvedie cvičiacemu funkčnosť klientskej aplikácie s ohľadom na požadované prípady použitia. Ak aplikácia umožňuje realizovať nasledujúce vybrané prípady použitia (klientskej časti), každý študent z tímu získa 4 body. Kontrolný bod nie je povinný, neodovzdáva sa do AIS. Tieto body sú zahrnuté v celkovom hodnotení (max. 100 bodov z kurzu).
+
+Vyžadované prípady použitia v kontrolnom bode:
+
+- zobrazenie prehľadu všetkých produktov z vybratej kategórie používateľom
+  - základné filtrovanie (aspoň podľa 3 atribútov, napr. rozsah cena od-do, značka, farba)
+  - stránkovanie
+  - preusporiadanie produktov (napr. podľa ceny vzostupne/zostupne)
+- zobrazenie konkrétneho produktu - detail produktu
+  - pridanie produktu do košíka (ľubovolné množstvo)
+- plnotextové vyhľadávanie nad katalógom produktov
+- registrácia používateľa/zákazníka
+- prihlásenie používateľa/zákazníka
+- odhlásenie zákazníka
 
 - **Kontrolný bod: 9. týždeň, na cvičení - 14.4. a 15.4, binárne hodnotenie 0/4 body** implementácia klientskej časti eshopu so zostavením na serveri (server-side rendering) s využitím PHP rámca (odporúčaný Laravel) - so všetkými funkciami podľa požiadaviek v stave na predvedenie
 

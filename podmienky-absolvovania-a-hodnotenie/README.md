@@ -31,7 +31,7 @@ Bez odovzdania 1. fázy projektu, resp. akceptácie vyučujúcim (odovzdanie sp�
 
 Tím je povinný každý týždeň podľa pokynov vyučujúceho prezentovať na cvičení postupný progres na projekte.
 
-Ak tím v daný týždeň na cvičení nepreukáže požadovaný progres, všetkým členom tímu sa za dané cvičenie započíta absencia. Cvičenie nie je možné nahradiť. Hodnotenie nie je bodové, je viazané na abscenciu.
+Ak tím v daný týždeň na cvičení nepreukáže požadovaný progres, všetkým členom tímu sa za dané cvičenie započíta absencia. Cvičenie nie je možné nahradiť. Hodnotenie nie je bodové, je viazané na absenciu.
 
 Absencia sa študentovi nezapočíta iba v prípade riadneho ospravedlnenia prostredníctvom študijného oddelenia.
 
@@ -41,24 +41,14 @@ V prípade dvoch absencií je absolvovanie kurzu pre študenta hodnotené ako ne
 
 Výnimkou je situácia, keď je jeden z členov tímu riadne ospravedlnený cez študijné oddelenie. V takom prípade sa progres hodnotí na najbližšom nasledujúcom cvičení, a to vrátane doplnenia spätného progresu za vynechaný týždeň/týždne.
 
+Po 8. týždni sa hodnotenie progresu na cvičeniach pozastaví.
+V 9. týždni je možné získať 4 body (ak tím body nezíska, nie je udelená abscenia).
+
 ## Priebežný test
 
 Priebežný test je plánovaný 8. týždeň semestra na cvičeniach. Max. počet bodov je 8. Minimum, ktoré musí študent získať je 3.5 boda.
 
-**V 9. týždni je naplánovaná kontrolná fáza napredovania.** Tím by už mal mať implementovanú klientskú časť aplikácie. Fáza je hodnotená 4 bodmi, a to binárne. Tím "letmo" predvedie cvičiacemu funkčnosť klientskej aplikácie s ohľadom na požadované prípady použitia. Ak aplikácia umožňuje realizovať nasledujúce prípady použitia (klientskej časti), každý člen tímu získa 4 body. Vyučujúci nebude v tejto fáze podrobne hodnotiť kvalitu kódu a robustnosť riešenia. Riešenie sa v tejto fáze neodovzdáva.
-
-Vyžadované prípady použitia v kontrolnom bode:
-
-- zobrazenie prehľadu všetkých produktov z vybratej kategórie používateľom
-  - základné filtrovanie (aspoň podľa 3 atribútov, napr. rozsah cena od-do, značka, farba)
-  - stránkovanie
-  - preusporiadanie produktov (napr. podľa ceny vzostupne/zostupne)
-- zobrazenie konkrétneho produktu - detail produktu
-  - pridanie produktu do košíka (ľubovolné množstvo)
-- plnotextové vyhľadávanie nad katalógom produktov
-- registrácia používateľa/zákazníka
-- prihlásenie používateľa/zákazníka
-- odhlásenie zákazníka
+**V 9. týždni je naplánovaná kontrolná fáza napredovania.** Tím by už mal mať implementovanú klientskú časť aplikácie. Fáza je hodnotená 4 bodmi, a to binárne. Tím "letmo" predvedie cvičiacemu funkčnosť klientskej aplikácie s ohľadom na požadované prípady použitia. Ak aplikácia umožňuje realizovať vybrané prípady použitia (klientskej časti, pozri Semestrálny projekt - časť Kontrolná fáza), každý člen tímu získa 4 body. Vyučujúci nebude v tejto fáze podrobne hodnotiť kvalitu kódu a robustnosť riešenia. Riešenie sa v tejto fáze neodovzdáva.
 
 [Podrobné informácie o projekte a harmonograme jednotlivých kontrolných termínov.](../semestralny-projekt)
 
