@@ -42,7 +42,7 @@ V prípade dvoch absencií je absolvovanie kurzu pre študenta hodnotené ako ne
 Výnimkou je situácia, keď je jeden z členov tímu riadne ospravedlnený cez študijné oddelenie. V takom prípade sa progres hodnotí na najbližšom nasledujúcom cvičení, a to vrátane doplnenia spätného progresu za vynechaný týždeň/týždne.
 
 Po 8. týždni sa hodnotenie progresu na cvičeniach pozastaví.
-V 9. týždni je možné získať 4 body (ak tím body nezíska, nie je udelená abscenia).
+V 9. týždni je možné získať 4 body (ak tím body nezíska, nie je udelená absencia).
 
 ## Priebežný test
 
