@@ -34,7 +34,7 @@ Cvičenia majú konzultačný charakter. Konzultácie k projektu budú prebieha�
 
 ## Hodnotenie progresu
 
-POZOR! - Na každom cvičení nusí tím vyučujúcemu podĺa jeho pokynov preukázať progres na projekte. Ak progres nie je preukázaný, členovia tímu dostanú za cvičeie absenciu ([pozri Podmienky absolvovania](../podmienky-absolvovania-a-hodnotenie/README.md).
+POZOR! - Na cvičeniach v týždňoch 3-8 nusí tím vyučujúcemu podĺa jeho pokynov preukázať progres na projekte. Ak progres nie je preukázaný, členovia tímu dostanú za cvičeie absenciu ([pozri Podmienky absolvovania](../podmienky-absolvovania-a-hodnotenie/README.md)).
 
 ## Termíny prezentovania
 

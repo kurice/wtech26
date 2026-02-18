@@ -29,7 +29,7 @@ Bez odovzdania 1. fázy projektu, resp. akceptácie vyučujúcim (odovzdanie sp�
 
 ## Cvičenia - hodnotenie progresu
 
-Tím je povinný každý týždeň podľa pokynov vyučujúceho prezentovať na cvičení postupný progres na projekte.
+Tím je povinný v týždňoch 3-8 podľa pokynov vyučujúceho prezentovať na cvičení postupný progres na projekte.
 
 Ak tím v daný týždeň na cvičení nepreukáže požadovaný progres, všetkým členom tímu sa za dané cvičenie započíta absencia. Cvičenie nie je možné nahradiť. Hodnotenie nie je bodové, je viazané na absenciu.
 
