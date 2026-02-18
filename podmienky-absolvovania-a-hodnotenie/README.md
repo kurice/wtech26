@@ -48,7 +48,7 @@ V 9. týždni je možné získať 4 body, pozri Kontrolná fáza (ak tím body n
 
 Priebežný test je plánovaný 8. týždeň semestra na cvičeniach. Max. počet bodov je 8. Minimum, ktoré musí študent získať je 3.5 boda.
 
-## kontrolná fáza
+## Kontrolná fáza
 
 **V 9. týždni je naplánovaná kontrolná fáza napredovania.** Tím by už mal mať implementovanú klientskú časť aplikácie. Fáza je hodnotená 4 bodmi, a to binárne. Tím "letmo" predvedie cvičiacemu funkčnosť klientskej aplikácie s ohľadom na požadované prípady použitia. Ak aplikácia umožňuje realizovať vybrané prípady použitia (klientskej časti, pozri Semestrálny projekt - časť Kontrolná fáza), každý člen tímu získa 4 body. Vyučujúci nebude v tejto fáze podrobne hodnotiť kvalitu kódu a robustnosť riešenia. Riešenie sa v tejto fáze neodovzdáva.
 
