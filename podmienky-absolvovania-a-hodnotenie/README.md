@@ -42,11 +42,13 @@ V prípade dvoch absencií je absolvovanie kurzu pre študenta hodnotené ako ne
 Výnimkou je situácia, keď je jeden z členov tímu riadne ospravedlnený cez študijné oddelenie. V takom prípade sa progres hodnotí na najbližšom nasledujúcom cvičení, a to vrátane doplnenia spätného progresu za vynechaný týždeň/týždne.
 
 Po 8. týždni sa hodnotenie progresu na cvičeniach pozastaví.
-V 9. týždni je možné získať 4 body (ak tím body nezíska, nie je udelená absencia).
+V 9. týždni je možné získať 4 body, pozri Kontrolná fáza (ak tím body nezíska, nie je udelená absencia).
 
 ## Priebežný test
 
 Priebežný test je plánovaný 8. týždeň semestra na cvičeniach. Max. počet bodov je 8. Minimum, ktoré musí študent získať je 3.5 boda.
+
+## kontrolná fáza
 
 **V 9. týždni je naplánovaná kontrolná fáza napredovania.** Tím by už mal mať implementovanú klientskú časť aplikácie. Fáza je hodnotená 4 bodmi, a to binárne. Tím "letmo" predvedie cvičiacemu funkčnosť klientskej aplikácie s ohľadom na požadované prípady použitia. Ak aplikácia umožňuje realizovať vybrané prípady použitia (klientskej časti, pozri Semestrálny projekt - časť Kontrolná fáza), každý člen tímu získa 4 body. Vyučujúci nebude v tejto fáze podrobne hodnotiť kvalitu kódu a robustnosť riešenia. Riešenie sa v tejto fáze neodovzdáva.
 
